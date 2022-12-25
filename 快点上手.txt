@@ -1,2 +1,5 @@
 要学会做笔记
 学到了,好的
+1.先按shift文件powershell窗口打开 git add .      回车 
+2. git commit -m"第二次提交 "   提交暂存区
+3. git push  推到服务器上
